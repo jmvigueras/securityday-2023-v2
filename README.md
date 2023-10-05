@@ -5,7 +5,7 @@ This project provides an illustration of how an environment can be utilized to e
 
 ## Overview
 
-### [day0_IaC_AWS_fortinet_k8s](./day0_IaC_fortinet_k8s): 
+### [day0_IaC_fortinet_k8s](./day0_IaC_fortinet_k8s): 
   - Day 0 deployment of all necessary infrastructure in each three Cloud Service Providers (CSP: AWS, Azure y GCP): 
   - Hub-Spoke topology with central inspection vpc/vnet (N-S and E-W),
   - Kuberntes cluster, 
